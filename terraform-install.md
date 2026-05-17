@@ -33,3 +33,6 @@ in my system, this path location is C:\Program Files\terraform_1.3.7
 Download AWSCLI latest version from [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and install it.
 
 or you can run the below command in powershell or the command prompt
+## On Command Prompt run following to connect to aws
+aws configure
+# create IAM user and acess keys on AWS console
